@@ -1,5 +1,5 @@
-//Author: Adil Aman Mohammed and Ganesh Mahendra Prabhu
-//Email: adil.mohammed@okstate.edu and ganesh.prabhu@okstate.edu
+//Author:Ganesh Mahendra Prabhu
+//Email:ganesh.prabhu@okstate.edu
 //Date: 11/15/2022
 //Description: This file gets and returns the data based on refnum
 
